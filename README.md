@@ -1,1 +1,1 @@
-# College-management-with-django
+# College management with react.js and django
